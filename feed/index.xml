@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>beauty</title>
+	<atom:link href="https://wardehh.github.io/clinic/feed/" rel="self" type="application/rss+xml" />
+	<link>https://wardehh.github.io/clinic</link>
+	<description></description>
+	<lastBuildDate>Fri, 14 Jul 2023 11:34:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.3.1</generator>
+	<item>
+		<title>Home</title>
+		<link>https://wardehh.github.io/clinic/2023/07/14/home/</link>
+					<comments>https://wardehh.github.io/clinic/2023/07/14/home/#respond</comments>
+		
+		<dc:creator><![CDATA[admin]]></dc:creator>
+		<pubDate>Fri, 14 Jul 2023 10:49:49 +0000</pubDate>
+				<category><![CDATA[غير مصنف]]></category>
+		<guid isPermaLink="false">https://wardehh.github.io/clinic/?p=1515</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://wardehh.github.io/clinic/2023/07/14/home/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
